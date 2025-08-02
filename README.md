@@ -1,8 +1,7 @@
-# patch3d
-Patch3D
+# Patch3D
 Patch3D is a web-based visual coding editor that lets you create 2D and 3D projects using drag-and-drop blocks. Inspired by Scratch but with full 3D support, Patch3D runs entirely in your browser so you can build and share interactive projects anywhere, anytime.
 
-Features
+# Features
 Create 2D and 3D animations and programs using easy visual blocks
 
 Intuitive drag-and-drop coding powered by Blockly
@@ -13,37 +12,25 @@ No installation required—just open the website and start coding
 
 Great for learners, educators, and hobbyists exploring 3D programming
 
-How to Use
+# How to Use
 Visit the hosted Patch3D website (URL will be here once live) and start building your projects instantly. All projects save and run online, so you can access them from any device without setup.
 
-Why Patch3D?
+# Why Patch3D?
 If you’ve used Scratch and wanted to work in 3D, Patch3D is built for you. It combines the simplicity of block coding with powerful 3D visuals to bring your ideas to life without complicated setups or installs.
 
-Development
+# Development
 If you want to run Patch3D locally or contribute:
 
 Clone the repo:
-
-bash
-Kopyala
-Düzenle
 git clone https://github.com/yourusername/patch3d.git  
 Install dependencies:
 
-bash
-Kopyala
-Düzenle
 npm install  
 Start the dev server:
 
-bash
-Kopyala
-Düzenle
 npm run dev  
-Contributing
+# Contributing
 Contributions, bug reports, and feature requests are welcome! Open an issue or a pull request.
 
-License
+# License
 MIT License
-
-Patch3D is a visual coding editor that lets you build 2D and 3D projects using blocks—kind of like Scratch, but in full 3D. It’s designed to be simple, fun, and powerful, whether you're learning to code, prototyping an idea, or just exploring creativity in a whole new dimension.
