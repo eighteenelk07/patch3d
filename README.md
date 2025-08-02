@@ -22,7 +22,7 @@ If you’ve used Scratch and wanted to work in 3D, Patch3D is built for you. It 
 If you want to run Patch3D locally or contribute:
 
 Clone the repo:
-git clone https://github.com/yourusername/patch3d.git  
+git clone https://github.com/eighteenelk07/patch3d.git  
 Install dependencies:
 
 npm install  
